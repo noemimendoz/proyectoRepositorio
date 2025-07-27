@@ -5,7 +5,6 @@ Este repositorio digital permitira tener acceso a las distintas versiones de doc
 ## Authors
 
 - [@noemimc](https://www.github.com/octokatherine)
-- [@noamc](https://www.github.com/octokatherine)
 
 ## Installation
 
